@@ -1,4 +1,13 @@
 # Qemu-Proot-Distro-Systems-Linux-Ubuntu
+
+Clone repository on GitHub:https://github.com/mi19582009-glitch/Qemu-Proot-Distro-Systems-Linux-Ubuntu
+
+cd Qemu-Proot-Distro-Systems-Linux-Ubuntu
+
+bash install.sh
+
+-------------------------
+
 Create system/import download systems and setup
 
 Comands on termux terminal:
