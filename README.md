@@ -21,6 +21,13 @@ Three link:https://cdimage.ubuntu.com/ubuntu-base/focal/daily/20261114/focal-bas
 
 Focal Ubuntu
 
+
+
+
+
+
+
+
 Setup and install systems
 
 Download proot-distro:
