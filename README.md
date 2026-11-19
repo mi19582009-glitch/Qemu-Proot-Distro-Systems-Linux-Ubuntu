@@ -15,7 +15,11 @@ Two link:
 
 https://cdimage.ubuntu.com/ubuntu-base/resolute/daily/20261115/resolute-base-amd64.tar.gz
 
+Resolute Ubuntu
+
 Three link:https://cdimage.ubuntu.com/ubuntu-base/focal/daily/20261114/focal-base-amd64.tar.gz
+
+Focal Ubuntu
 
 Setup and install systems
 
