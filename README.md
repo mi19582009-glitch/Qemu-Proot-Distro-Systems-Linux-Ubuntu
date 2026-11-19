@@ -1,14 +1,28 @@
 # Qemu-Proot-Distro-Systems-Linux-Ubuntu
+
+
 <p align="center">
   <img src="images.png" alt="Ubuntu" width="400">
 </p>
 
 
-Clone repository on GitHub:https://github.com/mi19582009-glitch/Qemu-Proot-Distro-Systems-Linux-Ubuntu
+Clone repository on GitHub:
+
+https://github.com/mi19582009-glitch/Qemu-Proot-Distro-Systems-Linux-Ubuntu
 
 cd Qemu-Proot-Distro-Systems-Linux-Ubuntu
 
-bash install.sh
+bash install1.sh
+
+chmod +x install1.sh
+
+chmod +x install2.sh
+
+chmod +x install3.sh
+
+Start Script:
+
+./Qemu-Proot-Distro-Systems-Linux-Ubuntu/install1.sh
 
 -------------------------
 
